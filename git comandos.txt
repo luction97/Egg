@@ -1,0 +1,8 @@
+git init  "Decir a git que vamos a crear un proyecto nuevo"
+git add <file>
+git status " en que estado estan tus archivos"
+git commit "area a repositorio"
+git push"Subir a repositorio"
+git pull "quien hizo los cambios"
+git clone "Copia del servidor central hacia tu pc"
+.gitignore "Nos deja crear una carpeta y que no sea visto"
